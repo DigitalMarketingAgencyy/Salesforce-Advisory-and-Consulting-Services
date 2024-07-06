@@ -42,7 +42,7 @@ In the dynamic world of business, having a robust and efficient Customer Relatio
 
 Investing in Salesforce consulting services is a strategic move that can significantly enhance your business operations and customer engagement. With experienced partners like iBirds Software Services, you can leverage the full potential of Salesforce and drive your business towards success. Whether you are looking for advisory, implementation, or ongoing support, iBirds has the expertise and experience to deliver exceptional results.
 
-For more information on Salesforce consulting services, visit the links below:
+For more information on Salesforce consulting services, visit the [links](https://medium.com/@ibirds) below:
 
 - [iBirds Software Services on FreeAd1](https://freead1.net/service/India/Ajmer-12556)
 - [Salesforce Advisory Services on FortuneTellerOracle](https://www.fortunetelleroracle.com/public/technology/salesforce-advisory-services-878813)
